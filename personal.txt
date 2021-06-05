@@ -1,7 +1,4 @@
 this is my personal quote file
 strength through sturggle
-<<<<<<< HEAD
 I like Green
-=======
-I like blue
->>>>>>> personal_quotes
+
